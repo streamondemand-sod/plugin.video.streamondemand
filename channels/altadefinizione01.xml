@@ -11,7 +11,7 @@
 	<thumbnail>https://raw.githubusercontent.com/Zanzibar82/images/master/posters/altadefinizione01.png</thumbnail>
 	<bannermenu>https://raw.githubusercontent.com/Zanzibar82/images/master/posters/altadefinizione01.png</bannermenu>
 
-	<update_url>https://raw.githubusercontent.com/streamondemand/plugin.video.streamondemand/master/channels/</update_url>
+	<update_url>https://raw.githubusercontent.com/streamondemand-sod/plugin.video.streamondemand/master/channels/</update_url>
 	<version>13</version>
 	<date>13/09/2017</date>
 	<changes>Fix Domain</changes>
